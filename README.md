@@ -1,4 +1,4 @@
-**Projects for Applied Machine Learning**:
+**Projects for Machine Learning Fundementals**:
 
 **Project 1:**
 
