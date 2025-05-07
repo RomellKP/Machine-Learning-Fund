@@ -24,7 +24,7 @@
   - Performance Metrics (Precision, Recall) 
   
   ### How to Run:
-  1. compile all and run hw1.py
+  1. Compile all and run hw1.py
 
   
   ### My Contributions: 
@@ -49,7 +49,7 @@
   
   
   ### How to Run:
-  1. compile all and run hw2.py
+  1. Compile all and run hw2.py
   
   ### My Contributions:
   - Mykmeans.py
@@ -65,12 +65,19 @@
   
 
  ### Features: 
- 
- 
+ - Decision Tree implementation
+ - Entropy and Gini index impurity measures
+ - prediction and evaluation on training, validation, and test sets
+
+  ### Concepts used: 
+  - Decision Trees
+  - Binary Feature Splits
+  - Entropy
+  - Gini Index
   
   ### How to Run:
-  
+  1. Compile all and run hw4.py
   
   
   ### My Contributions:
-  
+  - MyDecisionTree.py
