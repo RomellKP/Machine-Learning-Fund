@@ -52,8 +52,8 @@
   1. compile all and run hw2.py
   
   ### My Contributions:
-  -Mykmeans.py
-  -MPCA.py
+  - Mykmeans.py
+  - MPCA.py
   
 
 ## Project 3: 
