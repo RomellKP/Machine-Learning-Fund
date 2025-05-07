@@ -24,7 +24,7 @@
   - Performance Metrics (Precision, Recall) 
   
   ### How to Run:
-  1. compile and run hw1.py
+  1. compile all and run hw1.py
 
   
   ### My Contributions: 
@@ -38,11 +38,22 @@
 
 
   ### Features:
+  - Implementation of K-means algorithm
+  - Implementation of PCA
+  - Classification based on majority voting within clusters
+  - Evaluation of clustering performance on:
+    1. High dimensional data
+    2. PCA-reduced data with >95% variance
+    3. PCA-reduced data to a single dimension
+  - Visualization of reconstruction error over iterations
   
   
   ### How to Run:
+  1. compile all and run hw2.py
   
   ### My Contributions:
+  -Mykmeans.py
+  -MPCA.py
   
 
 ## Project 3: 
