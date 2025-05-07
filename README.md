@@ -56,9 +56,12 @@
   - MPCA.py
   
 
-## Project 3: 
+## Project 4: 
 
   ### Description:
+  This project implements a decision tree classifier in Python using NumPy. It uses binary features and allows
+  either entropy or the Gini index as the splitting criteria. The classifier is tested on the Optical Digits
+  dataset (handwritten digits processed as vectors) to evaluate its accuracy with different values for minimum entropy
   
 
  ### Features: 
