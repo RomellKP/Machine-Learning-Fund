@@ -31,9 +31,10 @@
   - MyDiscriminant.py
 
 
-## Project 2: 
+## Project 2: Clustering and Dimension Reduction for Handritten Digit Classification
 
   ### Description:
+  This project implements a pipeline combining K-Means Clustering and Principal Cp,[pmemy Analysis (PCA) for classification of handwritten digit images (0, 8 , and 9) from digits089.csv
 
 
   ### Features:
