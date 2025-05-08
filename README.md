@@ -54,9 +54,32 @@
   ### My Contributions:
   - Mykmeans.py
   - MPCA.py
+
+## Project 3: MLP for Handwritten Digit Classification
+
+### Description: 
+This project implements a Multilayer Perceptron (MLP) to classify handwritten digits from the Optical Digits dataset (handwritten digits processed as vectors).
+The MLP has one hidden layer with a configurable amount of neurons and is trained using gradient descent.
+
+### Features:
+- Normalization of labels
+- Fully implemented MLP supporting forward and back propogation
+- Evaluation of model performance for different hidden layer sizes to find optimal number of neurons
+
+### Concepts: 
+- MLP (neural networks)
+- Activation functions
+- Backpropagation
+- Gradient descent
+
+### How to Run: 
+1. Compile all and run hw3.py
+
+### My Contributions: 
+- MyMLP.py
   
 
-## Project 4: 
+## Project 4: Decision Tree for Handwritten Digit Classification
 
   ### Description:
   This project implements a decision tree classifier in Python using NumPy. It uses binary features and allows
